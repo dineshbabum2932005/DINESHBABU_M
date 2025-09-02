@@ -7,7 +7,7 @@ const educationData = [
     title: "B.Tech - Information Technology",
     institute: "Kongu Engineering College, Perundurai",
     year: "2022 - 2026",
-    cgpa: "CGPA: 6.98",
+    cgpa: "CGPA: 7.10",
   },
   {
     title: "HSC - BIO MATHS",
